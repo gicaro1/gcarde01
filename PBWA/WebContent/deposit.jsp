@@ -21,7 +21,8 @@
 
 
   <!-- customs CSS -->
-  <link rel="stylesheet" href="/CSS/styles.css">
+<!--   <link rel="stylesheet" href="/CSS/styles.css"> -->
+	<link rel="stylesheet" href="/css/styles.css" />
     <title>Deposit</title>
 </head>
 
