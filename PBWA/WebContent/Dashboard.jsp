@@ -38,7 +38,7 @@
 	rel="stylesheet">
 
 <!-- StylesSheet  -->
-<link rel="stylesheet" href="css/styles.css" />
+<link rel="stylesheet" href="/css/styles.css" />
 
 <title>Dashboard</title>
 </head>
