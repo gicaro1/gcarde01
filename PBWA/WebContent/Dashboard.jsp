@@ -38,7 +38,7 @@
 	rel="stylesheet">
 
 <!-- StylesSheet  -->
-<link rel="stylesheet" href="http://zy4wtsaw3sjejnud.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:8080/PBWA/css/styles.css" />
+<link rel="stylesheet" href="http://zy4wtsaw3sjejnud.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:/PBWA/css/styles.css" />
 
 <title>Dashboard</title>
 </head>
