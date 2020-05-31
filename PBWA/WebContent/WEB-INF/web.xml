@@ -35,17 +35,17 @@
 
 	<context-param>
 		<param-name>jdbcURL</param-name>
-		<param-value>jdbc:mysql://mysqlsrv.dcs.bbk.ac.uk:3306/gcarde01db</param-value>
+		<param-value>jdbc:mysql://j6dgmgmbjep5uzpb:j2t286glebalgf4e@zy4wtsaw3sjejnud.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/xfrcrryjiaiim2j0</param-value>
 	</context-param>
 
 	<context-param>
 		<param-name>jdbcUsername</param-name>
-		<param-value>gcarde01</param-value>
+		<param-value>j6dgmgmbjep5uzpb</param-value>
 	</context-param>
 
 	<context-param>
 		<param-name>jdbcPassword</param-name>
-		<param-value>bbkmysql</param-value>
+		<param-value>j2t286glebalgf4e</param-value>
 	</context-param>
 
 
